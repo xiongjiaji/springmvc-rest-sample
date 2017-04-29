@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>com.kyle.springmvc.rest.sample</finalName>
+    <finalName>sample</finalName>
   </build>
 </project>
